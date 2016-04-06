@@ -1,0 +1,142 @@
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\csc.exe
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\System.Collections.Immutable.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\vbc.exe
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\VBCSCompiler.exe
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\roslyn\VBCSCompiler.exe.config
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\UsingEF.dll.config
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\UsingEF.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\UsingEF.pdb
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Antlr3.Runtime.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Domain.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\EntityFramework.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\EntityFramework.SqlServer.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Google.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Web.Infrastructure.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Newtonsoft.Json.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Owin.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Helpers.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Mvc.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Optimization.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Razor.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.WebPages.Deployment.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.WebPages.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.WebPages.Razor.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\WebGrease.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Domain.pdb
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Helpers.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Mvc.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Optimization.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.Razor.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.WebPages.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.WebPages.Deployment.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\System.Web.WebPages.Razor.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Antlr3.Runtime.pdb
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Newtonsoft.Json.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\EntityFramework.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\EntityFramework.SqlServer.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Google.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\obj\Debug\UsingEF.csprojResolveAssemblyReference.cache
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\obj\Debug\UsingEF.dll
+c:\users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\UsingEF\obj\Debug\UsingEF.pdb
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\csc.exe
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\vbc.exe
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\UsingEF.dll.config
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\UsingEF.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\UsingEF.pdb
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Antlr3.Runtime.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Domain.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\EntityFramework.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\EntityFramework.SqlServer.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Newtonsoft.Json.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Owin.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Helpers.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Mvc.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Optimization.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Razor.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.WebPages.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\WebGrease.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Domain.pdb
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Helpers.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Mvc.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Optimization.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.Razor.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.WebPages.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Antlr3.Runtime.pdb
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Newtonsoft.Json.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\EntityFramework.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\EntityFramework.SqlServer.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\obj\Debug\UsingEF.csprojResolveAssemblyReference.cache
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\obj\Debug\UsingEF.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\UsingEF\obj\Debug\UsingEF.pdb

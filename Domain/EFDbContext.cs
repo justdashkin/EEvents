@@ -15,5 +15,7 @@ namespace Domain
         }
 
         public DbSet<Event> Events { get; set; }
+        public DbSet<Author> Authors { get; set; }
+        public DbSet<Authority> Authorities { get; set; }
     }
 }

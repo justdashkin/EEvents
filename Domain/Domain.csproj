@@ -50,7 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EFDbContext.cs" />
+    <Compile Include="Entities\Author.cs" />
+    <Compile Include="Entities\Authority.cs" />
     <Compile Include="Entities\Event.cs" />
+    <Compile Include="EventsInitializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

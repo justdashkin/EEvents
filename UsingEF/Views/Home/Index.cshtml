@@ -132,12 +132,17 @@
                 </form>
             </section>
 
-            @foreach (Event event1 in Model)
+            @*@foreach (Event event1 in Model)
 
             {
 
-                <div>Title: @event1.Title, author: @event1.Author</div>
+                <div>Title: @event1.Title</div>
 
+            }*@
+
+            @foreach (Event event1 in Model)
+            {
+                <div>Title: @event1.Title</div>
             }
 
             <footer>

@@ -23,7 +23,7 @@ namespace UsingEF
         }
 
         public Event GetEventById(int id) {
-            return context.Events.FirstOrDefault(x => x.Id == id);
+            return context.Events.FirstOrDefault(x => x.EventId == id);
         }
     }
 }

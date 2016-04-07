@@ -183,6 +183,27 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\category-all.css" />
+    <Content Include="Content\css\fonts.css" />
+    <Content Include="Content\css\img\icon_face.png" />
+    <Content Include="Content\css\img\icon_photo.png" />
+    <Content Include="Content\css\img\icon_search.png" />
+    <Content Include="Content\css\img\icon_search_white.png" />
+    <Content Include="Content\css\img\icon_twit.png" />
+    <Content Include="Content\css\img\photo_1.PNG" />
+    <Content Include="Content\css\img\photo_2.PNG" />
+    <Content Include="Content\css\img\star.png" />
+    <Content Include="Content\css\media-queries-category-all.css" />
+    <Content Include="Content\css\media-queries-index.css" />
+    <Content Include="Content\css\media-queries-pdp.css" />
+    <Content Include="Content\css\media-queries-shop-cart.css" />
+    <Content Include="Content\css\media-queries-thank-you.css" />
+    <Content Include="Content\css\pdp.css" />
+    <Content Include="Content\css\reset.css" />
+    <Content Include="Content\css\shop-cart.css" />
+    <Content Include="Content\css\style.css" />
+    <Content Include="Content\css\styles.css" />
+    <Content Include="Content\css\thank-you.css" />
     <Content Include="Content\layout1.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
@@ -190,10 +211,19 @@
     <Content Include="Content\Site.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
-    <Content Include="Scripts\jquery-1.10.2.js" />
-    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\EScripts\category.js" />
+    <Content Include="Scripts\EScripts\Common\jquery-2.2.0.min.js" />
+    <Content Include="Scripts\EScripts\Common\lodash.js" />
+    <Content Include="Scripts\EScripts\db.js" />
+    <Content Include="Scripts\EScripts\index.js" />
+    <Content Include="Scripts\EScripts\shop.js" />
+    <None Include="Scripts\jquery-2.2.2.intellisense.js" />
+    <Content Include="Scripts\jquery-2.2.2.js" />
+    <Content Include="Scripts\jquery-2.2.2.min.js" />
+    <Content Include="Scripts\jquery-2.2.2.min.map" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -247,7 +277,6 @@
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Domain\Domain.csproj">
@@ -273,7 +302,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>62508</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:62508/</IISUrl>
+          <IISUrl>http://localhost:8082/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

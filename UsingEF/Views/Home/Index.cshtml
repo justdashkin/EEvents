@@ -18,22 +18,29 @@
         <title>Document</title>
         <meta name="description" content="Site for EPAMers education">
         <meta name="keywords" content="EPAM, TAL, Education">
-        <link rel="stylesheet" href="~/Content/css/reset.css">
-        <link rel="stylesheet" href="~/Content/css/fonts.css">
-        <link rel="stylesheet" href="~/Content/css/styles.css">
-        <link rel="stylesheet" href="~/Content/css/media-queries-index.css">
-        <link rel="stylesheet" href="~/Content/css/owl.carousel.css">
-        <link href="~/Content/owl.carousel.css" rel="stylesheet" />
+        <link href="~/Content/css/category-all.css" rel="stylesheet" />
+        <link href="~/Content/css/fonts.css" rel="stylesheet" />
+        <link href="~/Content/css/media-queries-category-all.css" rel="stylesheet" />
+        <link href="~/Content/css/media-queries-index.css" rel="stylesheet" />
+        <link href="~/Content/css/media-queries-pdp.css" rel="stylesheet" />
+        <link href="~/Content/css/media-queries-shop-cart.css" rel="stylesheet" />
+        <link href="~/Content/css/media-queries-thank-you.css" rel="stylesheet" />
+        <link href="~/Content/css/pdp.css" rel="stylesheet" />
+        <link href="~/Content/css/reset.css" rel="stylesheet" />
+        <link href="~/Content/css/shop-cart.css" rel="stylesheet" />
+        <link href="~/Content/css/style.css" rel="stylesheet" />
+        <link href="~/Content/css/styles.css" rel="stylesheet" />
+        <link href="~/Content/css/thank-you.css" rel="stylesheet" />
+        
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="~/Scripts/common/jquery-2.2.0.min.js"></script>
-        <script src="~/Scripts/common/owl.carousel.min.js"></script>
-        <script src="~/Scripts/db.js"></script>
-        <script src="~/Scripts/index.js"></script>
-        @*@Scripts.Render("~/Scripts/index.js")
-            @Scripts.Render("~/Scripts/db.js")
-            @Scripts.Render("~/Scripts/common/owl.carousel.min.js")
-            @Scripts.Render("~/Scripts/common/jquery-2.2.0.min.js")*@
+        <script src="~/Scripts/EScripts/Common/jquery-2.2.0.min.js"></script>
+        @*<script src="~/Scripts/EScripts/category.js"></script>
+        <script src="~/Scripts/EScripts/db.js"></script>*@
+        <script src="~/Scripts/EScripts/index.js"></script>
+        @*<script src="~/Scripts/EScripts/shop.js"></script>*@
+        @Scripts.Render("~/Scripts/Escripts/index.js")
 
+        <script src="~/Scripts/EScripts/Common/lodash.js"></script>
 
     </head>
 
@@ -43,12 +50,12 @@
                 <a id="logo" href=""><div id="logo-text">SH</div></a>
                 <div id="basket">
                     <a href="">
-                        <img class="basket-img-small" src="~/Content/star.png" alt="star"><img class="basket-img-big" src="~/Content/star.png" alt="star"><span> Chosen (<span class="numb-items"></span>)</span>
+                        <img class="basket-img-small" src="~/Content/css/IMG/star.png" alt="star"><img class="basket-img-big" src="~/Content/css/IMG/star.png" alt="star"><span> Chosen (<span class="numb-items"></span>)</span>
                     </a>
                 </div>
 
                 <form action="" class="form-search">
-                    <button class="search-butt" type="button"><img class="icon-search" src="~/Content/icon_search.png" alt="icon_search"></button>
+                    <button class="search-butt" type="button"><img class="icon-search" src="~/Content/css/IMG/icon_search.png" alt="icon_search"></button>
                     <input class="input-search" type="search" placeholder="search something...">
                 </form>
 
@@ -67,10 +74,10 @@
                 <hr class="hr-top-2">
             </header>
 
-            <section id="headings">
-                <h1>EVENTS IN EPAM SYSTEMS</h1>
+            <section id="headings" style="margin:auto;">
+                <h1 style="margin:auto;">EVENTS IN EPAM SYSTEMS</h1>
                 <span class="subheader-h1">As you know, EPAM provides a lot of interesting events for EPAMers</span>
-                <a href="new-events.html" class="white-button">CHECK NEW EVENTS</a>
+                <a  href="new-events.html" class="white-button" style="margin: auto; margin-top: 3em;">CHECK NEW EVENTS</a>
             </section>
 
             <section id="preview-photo">
@@ -113,6 +120,8 @@
                     </a>
                 </div>
             </section>
+
+            
 
             <section id="subscribe">
                 <h2>sign up to receive our updates</h2>
@@ -162,9 +171,9 @@
                         <li>Site is made with love in Kharkiv,</li>
                         <li>2014 &copy All rights reserved.</li>
                         <li class="icons">
-                            <a class="icon" href=""><img src="~/Content/icon_twit.png" alt=""></a>
-                            <a class="icon" href=""><img src="~/Content/icon_face.png" alt=""></a>
-                            <a class="icon" href=""><img src="~/Content/icon_photo.png" alt=""></a>
+                            <a class="icon" href=""><img src="~/Content/css/IMG/icon_twit.png" alt=""></a>
+                            <a class="icon" href=""><img src="~/Content/css/IMG/icon_face.png" alt=""></a>
+                            <a class="icon" href=""><img src="~/Content/css/IMG/icon_photo.png" alt=""></a>
                         </li>
                     </ul>
                 </div>

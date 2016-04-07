@@ -8,3 +8,13 @@ c:\Users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\Domain\bin
 c:\Users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 c:\Users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\Domain\obj\Debug\Domain.dll
 c:\Users\daria_ivanova2\documents\visual studio 2015\Projects\UsingEF\Domain\obj\Debug\Domain.pdb
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\Domain.dll.config
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\Domain.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\Domain.pdb
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\obj\Debug\Domain.dll
+C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\obj\Debug\Domain.pdb

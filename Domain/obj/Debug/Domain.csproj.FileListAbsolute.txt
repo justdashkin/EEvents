@@ -18,3 +18,13 @@ C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\bin\Debug\EntityFrame
 C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
 C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\obj\Debug\Domain.dll
 C:\Users\Daria_Ivanova2\Desktop\IvanovaProj\UsingEF\Domain\obj\Debug\Domain.pdb
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\Domain.dll.config
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\Domain.dll
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\Domain.pdb
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\EntityFramework.dll
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\EntityFramework.SqlServer.dll
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\EntityFramework.xml
+d:\Users\user\Desktop\das\EEvents\Domain\bin\Debug\EntityFramework.SqlServer.xml
+d:\Users\user\Desktop\das\EEvents\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+d:\Users\user\Desktop\das\EEvents\Domain\obj\Debug\Domain.dll
+d:\Users\user\Desktop\das\EEvents\Domain\obj\Debug\Domain.pdb

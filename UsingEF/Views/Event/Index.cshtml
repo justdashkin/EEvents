@@ -1,0 +1,32 @@
+﻿@using Domain.Entities
+
+@*@model Domain.Entities.Event*@
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Edit</h2>
+@using (Html.BeginForm()){
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        Event
+        .....
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+
+    List<String> ListAuthorEvent = ViewBag.LstAuthorEvent;
+    List<Author> ListAuthor = ViewBag.LstAuthors;
+
+    foreach (Author item in ListAuthor) {
+        <input type="checkbox" name="chosenAuthor" value="@item.AuthorID"
+               @(ListAuthorEvent.Contains(item.Surname)? "checked = 'checked'" : "")/>
+
+         @item.Surname
+        <br/>
+    }
+}

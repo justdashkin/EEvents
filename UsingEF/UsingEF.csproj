@@ -168,6 +168,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\EventController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
     <Compile Include="EFEventsRepository.cs" />
@@ -204,7 +205,6 @@
     <Content Include="Content\css\style.css" />
     <Content Include="Content\css\styles.css" />
     <Content Include="Content\css\thank-you.css" />
-    <Content Include="Content\layout1.html" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -233,6 +233,7 @@
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Event\Index.cshtml" />
     <None Include="Views\Home\layout1.cshtml" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
